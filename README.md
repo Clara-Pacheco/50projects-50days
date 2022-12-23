@@ -19,9 +19,43 @@ This repository includes 50 mini projects in HTML, CSS & JavaScript that relate 
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day1_expandingCards/video/project1_preview.gif)
 
+So in this project, I built some expanding cards.
+
+Basically, I styled these panels to have a background image and a heading, use Flexbox to align everything and then add a little bit of JavaScript so that when we click one of these, it changes the class to active and it then expands with a CSS transition.
+
+JavaScript is used for the event.
+
+Listeners will be using CSS transitions to give it the smooth through the effect.
+
+You'll see the heading doesn't come in until the card is fully expanded as well and I´m using just background images and headings, but you could make these into testimonials or FAQs or whatever it might be useful.
+
 ## 2️⃣ Progress Steps
 
 ![preview]()
+
+So in this project, I´m going to build some progress steps and you might see these in different kinds of websites with forms multi basically like multi level forms, shopping carts, things like that.
+
+Just a progress bar that starts at one and just goes along here.
+
+So we're not going to have any form or anything, but we'll have these buttons to control the steps.
+
+So it starts at one.
+
+He's got this blue outline.
+
+If I click next, then it goes to two.
+
+So the line we get transition goes over to two to border lights up, click next again and notice at the beginning.
+
+Previous is disabled so there's no reason to click previous and then we can keep going.
+
+And when we click, when we get to the last one, the next is disabled.
+
+So we can just go back and forth.
+
+And if we're at the end disabled, then next is disabled.
+
+So we'll start off with the HTML style, style it with CSS and then we'll add the functionality with JavaScript.
 
 ## 3️⃣ Rotating Navigation Animation
 
