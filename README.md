@@ -19,39 +19,39 @@ This repository includes 50 mini projects in HTML, CSS & JavaScript that relate 
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day1_expandingCards/video/project1_preview.gif)
 
-## Progress Steps
+## 2️⃣ Progress Steps
 
 ![preview]()
 
-## Rotating Navigation Animation
+## 3️⃣ Rotating Navigation Animation
 
 ![preview]()
 
-## Hidden Search Widget
+## 4️⃣ Hidden Search Widget
 
 ![preview]()
 
-## Blurry Loading
+## 5️⃣ Blurry Loading
 
 ![preview]()
 
-## Scroll Animation
+## 6️⃣ Scroll Animation
 
 ![preview]()
 
-## Split Landing Page
+## 7️⃣ Split Landing Page
 
 ![preview]()
 
-## Form Wave
+## 8️⃣ Form Wave
 
 ![preview]()
 
-## Sound Board
+## 9️⃣ Sound Board
 
 ![preview]()
 
-## Dad Jokes
+## 🔟 Dad Jokes
 
 ![preview]()
 
