@@ -223,17 +223,18 @@ You will also learn more about HTML5 and CSS including semantic tags in your mar
 50 projects may seem like a lot, but they are small enough and it is possible to complete a project in just a few hours. Of course, this depends on your skill level.
 
 ## 🧪 Skills developed by project based learning
+<br>
+ Modern styling with flexbox,
+ CSS animations,
+ custom properties,
+ DOM manipulation,
+ events,
+ array methods,
+ HTTP requests
+ & more
 
-- Modern styling with flexbox,
-- CSS animations,
-- custom properties,
-- DOM manipulation,
-- events,
-- array methods,
-- HTTP requests
-- & more
-
-### Information  
+### Information 
+<br> 
 
 📅 **Started: 23.12.2022**
 
