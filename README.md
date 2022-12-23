@@ -1,5 +1,5 @@
 <div align="center">
-<img width="400px" src="https://github.com/Clara-Pacheco/50projects-50days/tree/main/img" alt="">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Clara-Pacheco/50projects-50days/tree/main/img" alt="">&nbsp;&nbsp;&nbsp;
 <br>
 <br>
 
@@ -17,7 +17,7 @@ This repository includes 50 mini projects in HTML, CSS & JavaScript that relate 
 
 ## Expanding Cards
 
-![preview](https://github.com/Clara-Pacheco/50projects-50days/tree/main/day1_expandingCards/video)
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day1_expandingCards/video/project1_preview.gif)
 
 ## Progress Steps
 
