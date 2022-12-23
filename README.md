@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github.com/Clara-Pacheco/50projects-50days/tree/main/img" alt="">&nbsp;&nbsp;&nbsp;
-<br>
+<img width="500px" src="https://www.juicymedia.co.uk/application/files/4615/1838/4923/html_css_js.png" alt="">&nbsp;&nbsp;&nbsp;
 <br>
 
 <p align="center">
@@ -12,10 +11,11 @@
 <br>
 
 # 💻 50 Projects In 50 Days - HTML, CSS & JavaScript
+<br>
 
 This repository includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model) to sharpen those skills by building 50 quick, unique & fun mini projects. Here is a list of what is create in this course:
 
-## Expanding Cards
+## 1️⃣ Expanding Cards
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day1_expandingCards/video/project1_preview.gif)
 
