@@ -47,13 +47,11 @@ If I click next, then it goes to two.
 
 So the line we get transition goes over to two to border lights up, click next again and notice at the beginning.
 
-Previous is disabled so there's no reason to click previous and then we can keep going.
+If we are at the beginning, previous is disabled so there's no reason to click previous and then we can keep going.
 
-And when we click, when we get to the last one, the next is disabled.
+And if we're at the end, then next is disabled.
 
 So we can just go back and forth.
-
-And if we're at the end disabled, then next is disabled.
 
 So we'll start off with the HTML style, style it with CSS and then we'll add the functionality with JavaScript.
 
