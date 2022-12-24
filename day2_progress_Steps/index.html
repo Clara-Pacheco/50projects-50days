@@ -9,16 +9,25 @@
   <!--======================= GOOGLE FONTS ======================-->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap" rel="stylesheet">
   
   <!--======================= CSS ===============================-->
   <link rel="stylesheet" href="style.css">
-
-
-  <title>My project</title>
+  <title>Progress Steps</title>
 </head>
 <body>
-  <h1>Project Starter</h1>
+ <div class="container">
+  <div class="progress-container">
+      <div class="progress" id="progress"></div> <!--blue line-->
+      <div class="circle active">1</div>
+      <div class="circle">2</div>
+      <div class="circle">3</div>
+      <div class="circle">4</div>      
+  </div>
+
+  <button class="btn" id="prev" disabled>Prev</button>
+  <button class="btn" id="next">Next</button>
+ </div>
   
 
 
