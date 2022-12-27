@@ -31,7 +31,7 @@ You'll see the heading doesn't come in until the card is fully expanded as well 
 
 ## 2️⃣ Progress Steps
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day2_progress_Steps/video/Progress-Steps-Google-Chrome-2022-12-27-09-20-50.gif)
 
 So in this project, I´m going to build some progress steps and you might see these in different kinds of websites with forms multi basically like multi level forms, shopping carts, things like that.
 
