@@ -39,14 +39,26 @@ function update(){
       }
   })
 
-  // Getting all the active circles
+  // Getting all the active circles + updating bar progress
 
   const actives = document.querySelectorAll('.active')
   progress.style.width = (actives.length - 1) / (circles.length - 1) * 100 + '%'
 
+  // 1- A unidade tem que ser em %, porque é a unidade que encontra-se 
+  // no CSS
 
-  // Divide a qtd de classes ativas pela qtd de círculos, e retira
+  // 2- Divide a qtd de classes ativas pela qtd de círculos, e retira
   // 1, para obtermos uma porcentagem menor e a barra não ultrapassar
   // o limite do container onde se encontra.
+
+
+    if(currentActive === 1){
+      prev.disabled = true
+    }else if(currentActive === circles.length) {
+      next.disabled = true
+    }else {
+      prev.disabled = false
+      next.disabled = false
+    }
 
 }
