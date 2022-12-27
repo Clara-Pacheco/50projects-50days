@@ -38,4 +38,15 @@ function update(){
         circle.classList.remove('active')
       }
   })
+
+  // Getting all the active circles
+
+  const actives = document.querySelectorAll('.active')
+  progress.style.width = (actives.length - 1) / (circles.length - 1) * 100 + '%'
+
+
+  // Divide a qtd de classes ativas pela qtd de círculos, e retira
+  // 1, para obtermos uma porcentagem menor e a barra não ultrapassar
+  // o limite do container onde se encontra.
+
 }
