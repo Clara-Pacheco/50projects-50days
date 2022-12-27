@@ -53,7 +53,25 @@ So we'll start off with the HTML style, style it with CSS and then we'll add the
 
 ## 3️⃣ Rotating Navigation Animation
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day3_rotating_navigation/video/Rotating-Navigation-Google-Chrome-2022-12-27-17-46-50.gif)
+
+Tn this project, we basically just have a simple article.
+
+This could be anything at all, any website, any blog, whatever.
+
+And up here we have the little navigation icon.
+
+If we click this icon, what's going to happen is it actually rotates the entire website, and then it brings in the NAV menu, the navigation items from the side and the icon also changes from open to close button.
+
+We're going to position them so that when we click it, this circle rotates and shows the close button.
+
+Obviously we need a little bit of JavaScript to be able to add and remove the specific class, which I am going to call show NAV and that will rotate and bring the menu in.
+
+So it's it's going to be mostly CSS that we're dealing with.
+
+We need to add specific styles for specific elements.
+
+When the show NAV class is present, the only JavaScript we really need is to add or move the class when we click this button.
 
 ## 4️⃣ Hidden Search Widget
 
