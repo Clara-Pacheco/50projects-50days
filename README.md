@@ -33,11 +33,11 @@ You'll see the heading doesn't come in until the card is fully expanded as well 
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day2_progress_Steps/video/Progress-Steps-Google-Chrome-2022-12-27-09-20-50.gif)
 
-So in this project, I´m going to build some progress steps and you might see these in different kinds of websites with forms multi basically like multi level forms, shopping carts, things like that.
+In this project, I´m going to build some progress steps and you might see these in different kinds of websites with forms multi basically like multi level forms, shopping carts, things like that.
 
-Just a progress bar that starts at one and just goes along here.
+Just a progress bar that starts at one and just goes along.
 
-So we're not going to have any form or anything, but we'll have these buttons to control the steps.
+It´s not going to have any form or anything, but we'll have these buttons to control the steps.
 
 So it starts at one.
 
@@ -45,13 +45,9 @@ He's got this blue outline.
 
 If I click next, then it goes to two.
 
-So the line we get transition goes over to two to border lights up, click next again and notice at the beginning.
+The line we get transition goes over to two to border lights up, click next again and the same happens to threee and so on.
 
-If we are at the beginning, previous is disabled so there's no reason to click previous and then we can keep going.
-
-And if we're at the end, then next is disabled.
-
-So we can just go back and forth.
+If we are at the beginning, previous is disabled, if we're at the end, then next is disabled. Like that we can just go back and forth.
 
 So we'll start off with the HTML style, style it with CSS and then we'll add the functionality with JavaScript.
 
