@@ -88,7 +88,26 @@ So we'll be using CSS transitions along with just a little bit of JavaScript to 
 
 ## 5️⃣ Blurry Loading
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day5_blurry_loading/video/Blurry-Loading-Google-Chrome-2022-12-28-11-12-00.gif)
+
+So in this project, we're going to be building a blurry loading page or loading image.
+
+You'll see that the image starts blurred and we also start with 0%, and then that goes up to 100% and the image comes into focus.
+
+We're just doing a blur effect on the image.
+
+So you could use this to load just about anything in your site, like any other elements in the DOM load in that specific amount of time.
+
+When we go from 0 to 100, we'll have to map different number ranges to the 0 to 100 load, for instance, the image blur is going to be 30 pixels when it starts and it's going to go down to zero as we go from 0 to 100.
+
+And there's a stackoverflow function that we're going to use to help us do that, to help us map one number range to another.
+
+### Map a range of numbers to another range of numbers
+##### https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
+
+const scale = (num, in_min, in_max, out_min, out_max) => {
+  return ((num - in_min) * (out_max - out_min)) / (in_max - in_min) + out_min
+}
 
 ## 6️⃣ Scroll Animation
 
