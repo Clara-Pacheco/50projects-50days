@@ -31,7 +31,7 @@ function blurring(){
     clearInterval(int)
   }
   loadText.innerHTML = `${load}%`
-  loadText.style.opacity= scale(load,0,100,1,0)
+  loadText.style.opacity= scale(load,0,100,1,0) // it's going to just slowly fade out as it gets closer to 100.
   bg.style.filter = `blur(${scale(load,0,100,30,0)}px)`
 }
 
@@ -43,6 +43,39 @@ So one and we want it to go to zero.
 So we have to map a range of numbers.
 There's basically 0 to 100 to going from 1 to 0
 in the same amount of time. */
+
+/*We want to map 0 to 100 to 1 to 0 for the opacity.
+It takes in a number.(load)
+It takes in the minimum and the maximum of the number
+which in our case is going to be zero and 100.
+So the load and then out min is going to be opacity
+one and then out Max is going to be zero because
+we want it to go from solid to disappear.
+
+So that's basically that's the amount of time(load) that we want
+this stuff to happen.
+So when that goes from 0 to 100, we want to map opacity to from 1
+to 0.
+If we were starting invisible and going to opaque,
+then we would do zero one.
+But we're doing it the other way around.*/
+
+/*Now, we have to do the same thing for The Blur because I don't
+ want the Blur to be from 100 pixels.
+I want it to be 30(the max).
+So we have to map the 0 to 100 to 30 to 0 because we're going
+to start blurred.
+So we want to start at 30 pixels and bring it down to zero when
+the load is done.
+So let's take the BG, the background and let's take style.
+We want to do style dot filter and we're going to set that
+to template literal and let's say blur.
+And inside here, inside Blur, we're going to open up our variable
+syntax or expression syntax and we're going to call scale
+and we want to scale the load just like we did with the opacity.
+And it's going to be from 0 to 100 for that load.
+And then we want the blur to go from 30 to 0 in that same amount
+of time that that load goes from 0 to 100. */
 
 //https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
 
