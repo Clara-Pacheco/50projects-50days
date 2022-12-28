@@ -75,7 +75,16 @@ When the show NAV class is present, the only JavaScript we really need is to add
 
 ## 4️⃣ Hidden Search Widget
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day4_hidden_search_widget/video/project-video-preview.gif)
+
+
+This is going to be one of the shortest projects, but it's a cool little widget that you can add to your website or to your application.
+
+It's a hidden search, and we just have this button here with a little search icon from font.
+
+And as soon as we click it, it fires off a JavaScript event that activates a specific class where we add a transition for the width of this input to get wider and the button to move over using a transform property 'Translate X'. If we click it again, it's going to shrink back up.
+
+So we'll be using CSS transitions along with just a little bit of JavaScript to add the event and toggle the class.
 
 ## 5️⃣ Blurry Loading
 
