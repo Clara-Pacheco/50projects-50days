@@ -80,7 +80,7 @@ When the show NAV class is present, the only JavaScript we really need is to add
 
 This is going to be one of the shortest projects, but it's a cool little widget that you can add to your website or to your application.
 
-It's a hidden search, and we just have this button here with a little search icon from font.
+It's a hidden search, and we just have this button here with a little search icon from font awesome.
 
 And as soon as we click it, it fires off a JavaScript event that activates a specific class where we add a transition for the width of this input to get wider and the button to move over using a transform property 'Translate X'. If we click it again, it's going to shrink back up.
 
