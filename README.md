@@ -111,7 +111,19 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 
 ## 6️⃣ Scroll Animation
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day6_scroll_animation/video/Scroll-Animation-Google-Chrome-2022-12-29-09-17-05.gif)
+
+in this project, we're going to build a scroll animation, which is is pretty simple, but very useful.
+
+You might see these in websites where you start scrolling and parts of the site - images or sections of the website - start to come in.
+
+I just created these content blocks and you can see there's three to begin with, but when I start to scroll down, the next one comes in from the left, and when we go down some more, next one comes in from the right and it's going to alternate where it comes in from.
+
+So we're going to use CSS transitions to have it come in smoothly, JavaScript to basically tell where the trigger point is for the next box to come in, and then, we're going to add a specific class to show it.
+
+When we go back up, it'll remove the class when it hits the trigger point and it'll all slide back out.
+
+This can be used in a lot of different UI's and different websites.
 
 ## 7️⃣ Split Landing Page
 
