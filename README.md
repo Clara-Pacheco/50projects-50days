@@ -125,6 +125,16 @@ When we go back up, it'll remove the class when it hits the trigger point and it
 
 This can be used in a lot of different UI's and different websites.
 
+![Dom-method](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day6_scroll_animation/img/mdn.png)
+
+### Element.getBoundingClientRect()
+
+The Element.getBoundingClientRect() method returns a DOMRect object providing information about the size of an element and its position relative to the viewport.
+
+#### Syntax
+
+getBoundingClientRect()
+
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
 ## 7️⃣ Split Landing Page
 
