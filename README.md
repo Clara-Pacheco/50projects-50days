@@ -125,6 +125,7 @@ When we go back up, it'll remove the class when it hits the trigger point and it
 
 This can be used in a lot of different UI's and different websites.
 
+https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
 ## 7️⃣ Split Landing Page
 
 ![preview]()
