@@ -142,7 +142,23 @@ getBoundingClientRect()
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
 ## 7️⃣ Split Landing Page
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day7_split_landing_pages/video/Split-Landing-Page-Google-Chrome-2022-12-29-16-40-13.gif)
+
+In this project, we're going to be creating a split landing page.
+
+And we're going to create this split screen with a background image, with an overlay, with some content inside.
+
+And if we click on one side, it's going to stretch out to about 75%.
+
+The other side, 25%.
+
+If I hover on the right side, it's going to do the same thing.
+
+We'll add a little hover effect onto these.
+
+It's going to be very CSS heavy.
+
+We'll do a little bit of JavaScript at the end for the hover effects, but lots of CSS in this project.
 
 ## 8️⃣ Form Wave
 
