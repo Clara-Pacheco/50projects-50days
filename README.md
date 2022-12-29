@@ -125,6 +125,10 @@ When we go back up, it'll remove the class when it hits the trigger point and it
 
 This can be used in a lot of different UI's and different websites.
 
+A lot of people use jQuery for something like this or a library like animate on scroll - animate on scroll is actually a really cool library, and if you want to do some funky stuff, then you can use that.
+
+But if it's just something simple and you're just bringing in elements when you scroll down,this is very lightweight, no extra libraries or anything and it's really easy to do.
+
 ![Dom-method](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day6_scroll_animation/img/mdn.png)
 
 ### Element.getBoundingClientRect()
