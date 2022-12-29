@@ -3,6 +3,8 @@
   --left-bg-color: rgba(87,84,236,0.7);
   --left-btn-hover-color: rgba(87,84,236,1);
   --right-btn-hover-color: rgba(28,122,28,1);
+  --hover-width: 75%;
+  --other-width: 25%;
 }
 
 * {
@@ -90,7 +92,7 @@ h1 {
   background: url('img/billy-freeman-DPOdCl4bGJU-unsplash.jpg');
   background-repeat: no-repeat;
   background-size:cover;
-  background-position:-230px;
+  background-position:cover;
 }
 
 .split.right::before {
@@ -99,4 +101,23 @@ h1 {
   width: 100%;
   height: 100%;
   background-color: var(--right-bg-color);
+}
+
+
+/* When the class of .hover-left is active, we want to take the
+left side and increase the width */
+
+.hover-left .left {
+  width: var(--hover-width);
+}
+
+.hover-left .right {
+  width: var(--other-width);
+}
+.hover-right .right {
+  width: var(--hover-width);
+}
+
+.hover-right .left {
+  width: var(--other-width);
 }
