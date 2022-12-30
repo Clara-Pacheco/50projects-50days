@@ -55,7 +55,7 @@ So we'll start off with the HTML style, style it with CSS and then we'll add the
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day3_rotating_navigation/video/Rotating-Navigation-Google-Chrome-2022-12-27-17-46-50.gif)
 
-Tn this project, we basically just have a simple article.
+In this project, we basically just have a simple article.
 
 This could be anything at all, any website, any blog, whatever.
 
@@ -163,6 +163,16 @@ We'll do a little bit of JavaScript at the end for the hover effects, but lots o
 ## 8️⃣ Form Wave
 
 ![preview]()
+
+So in this one, we're going to build a simple login form here with a wave effect on the labels.
+
+If we click in the input, you can see the label will then wave up.
+
+So we have that cool little animation when we click in and out of the input.
+
+So basically the way we're going to do this is wrap a span around each one of the label letters using JavaScript, and add a transition so that the label moves up when we focus on the input.
+
+We are also going to add a dynamic transition delay, to obtain a wave effect on each letter, making them go up at a different times.
 
 ## 9️⃣ Sound Board
 
