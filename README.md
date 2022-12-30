@@ -162,7 +162,7 @@ We'll do a little bit of JavaScript at the end for the hover effects, but lots o
 
 ## 8️⃣ Form Wave
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day8_form_wave_animation/video/Form-Input-Wave-Google-Chrome-2022-12-30-11-47-56.gif)
 
 So in this one, we're going to build a simple login form here with a wave effect on the labels.
 
