@@ -82,6 +82,7 @@ body {
 .form-control input:focus,
 .form-control input:valid {
   outline: 0;
+  border-bottom-color: lightblue;
 }
 
 .form-control label {
@@ -91,4 +92,32 @@ body {
 
 }
 
+/* Now that we have the tags spans, add via js, we can apply
+styles to it. */
 
+.form-control label span{
+  display: inline-block;
+  font-size: 18px;
+  min-width: 5px;
+  transition: 0.3s cubic-bezier(0.68,-0.55,0.265,1.55);
+
+}
+
+/*Cubic BCA defines a curve and we can use it as a transition effect with a variable speed from
+start to end and it takes in four points which are P zero, p one, p two, p three, p zero and p three
+are the start and the end of the curve.
+So I mean, you can get a lot more complicated if you're doing like really cool animations, but this
+is pretty simple.*/
+
+.form-control input:focus + label span,
+.form-control input:valid + label span {
+  color: lightblue;
+  transform: translateY(-30px);
+}
+
+
+/*input:focus meaning, when we click inside.
+*/
+
+/* When the input is focused, meaning, when we click inside,
+we want the direct label span*/
