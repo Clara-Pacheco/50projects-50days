@@ -45,7 +45,7 @@ He's got this blue outline.
 
 If I click next, then it goes to two.
 
-The line we get transition goes over to two to border lights up, click next again and the same happens to threee and so on.
+The line we get transition goes over to two to border lights up, click next again and the same happens to three and so on.
 
 If we are at the beginning, previous is disabled, if we're at the end, then next is disabled. Like that we can just go back and forth.
 
