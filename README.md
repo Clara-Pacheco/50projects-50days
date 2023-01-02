@@ -176,7 +176,7 @@ We are also going to add a dynamic transition delay, to obtain a wave effect on 
 
 ## 9️⃣ Sound Board
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day9_sound_board/video/video-preview.gif)
 
 In this project, we're going to work a little bit with the HTML five audio tag and create a soundboard.
 
