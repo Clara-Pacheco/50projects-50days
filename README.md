@@ -178,6 +178,18 @@ We are also going to add a dynamic transition delay, to obtain a wave effect on 
 
 ![preview]()
 
+In this project, we're going to work a little bit with the HTML five audio tag and create a soundboard.
+
+We have different sound effects and, the idea is, basically, when we click a button, it makes a sound effect.
+
+And if the sound is still playing and we click another one, it's going to stop that effect and start the next one.
+
+We can do this by using audio tags, present in HTML5.
+
+The buttons will be created entirely with JavaScript.
+
+So basically, if you capture an audio element with 'getElementByID' or whatever, you have some methods and properties on that object that you bring in, such as play, pause and so on.
+
 ## 🔟 Dad Jokes
 
 ![preview]()
