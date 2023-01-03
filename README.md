@@ -212,7 +212,7 @@ I'm going use Fetch normally and also show, in the comments, how we can use it w
 
 ## 1️⃣1️⃣ Event Keycodes
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day11_event_key_codes/video/Event-keyCodes-Google-Chrome-2023-01-03-12-02-54.gif)
 
 In this project, we're going to build a little application that shows you the key code and the code for any key on your keyboard.
 
