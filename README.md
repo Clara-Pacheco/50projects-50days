@@ -192,7 +192,23 @@ So basically, if you capture an audio element with 'getElementByID' or whatever,
 
 ## 🔟 Dad Jokes
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day10_dad_jokes/video/Dad-Jokes-Google-Chrome-2023-01-03-09-02-53.gif)
+
+So in this project, I'm going to be building a dad joke application where it gives us a joke.
+
+They're just silly little jokes and we can click a button to get a new joke; we can keep getting new jokes.
+
+And where we're getting this from is actually a third party API at https://icanhazdadjoke.com.
+
+If you go to that URL slash API, you can see basically the documentation for this API and I'm going to use the fetch API that's built into the browser to make a request and get an object with an ID, a joke and a status.
+
+And we're going to take that joke and put it into our application.
+
+So it's needed a basic knowledge about how HTTP requests works, as well as how the Fetch API works.
+
+After the interface is built with HTML and CSS, we'll add our JavaScript.
+
+I'm going use Fetch normally and also show, in the comments, how we can use it with something called async/await (when you deal with fetch, you deal with something called promises).
 
 ## Event Keycodes
 
