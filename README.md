@@ -214,6 +214,14 @@ I'm going use Fetch normally and also show, in the comments, how we can use it w
 
 ![preview]()
 
+In this project, we're going to build a little application that shows you the key code and the code for any key on your keyboard.
+
+If I come to the page here, it says, Press any key to get the key code. I'm going to hit L and it'll show me the actual key, which is L, the key code which is 76 and the code which is keyL.
+
+If I hit tab, we get tab nine is the key code.
+
+This is going to be really simple, but it can be useful if you need to get the code for something.
+
 ## 1️⃣2️⃣ Faq Collapse
 
 ![preview]()
