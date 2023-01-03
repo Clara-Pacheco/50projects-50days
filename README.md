@@ -210,43 +210,43 @@ After the interface is built with HTML and CSS, we'll add our JavaScript.
 
 I'm going use Fetch normally and also show, in the comments, how we can use it with something called async/await (when you deal with fetch, you deal with something called promises).
 
-## Event Keycodes
+## 1️⃣1️⃣ Event Keycodes
 
 ![preview]()
 
-## Faq Collapse
+## 1️⃣2️⃣ Faq Collapse
 
 ![preview]()
 
-## Random Choice Picker
+## 1️⃣3️⃣ Random Choice Picker
 
 ![preview]()
 
-## Animated Navigation
+## 1️⃣4️⃣ Animated Navigation
 
 ![preview]()
 
-## Incrementing Counter
+## 1️⃣5️⃣ Incrementing Counter
 
 ![preview]()
 
-## Drink Water
+## 1️⃣6️⃣ Drink Water
 
 ![preview]()
 
-## Movie App
+## 1️⃣7️⃣  Movie App
 
 ![preview]()
 
-## Background Slider
+## 1️⃣8️⃣ Background Slider
 
 ![preview]()
 
-## Theme Clock
+## 1️⃣9️⃣ Theme Clock
 
 ![preview]()
 
-## Button Ripple Effect
+## 2️⃣0️⃣ Button Ripple Effect
 
 ![preview]()
 
