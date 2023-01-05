@@ -6,3 +6,13 @@ buttons.forEach((button,index) =>{
     faqs[index].classList.toggle('active')
   })
 })
+
+/* We could access each faq through the parentNode as well:
+
+buttons.forEach((button,index) =>{
+  button.addEventListener('click',()=>{
+    button.parentNode.classList.toggle('active')
+  })
+})
+
+*/
