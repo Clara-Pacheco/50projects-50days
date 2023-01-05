@@ -8,11 +8,85 @@
 
 body {
   font-family: 'Mulish', sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  margin: 50px 30px;
+  text-align: center;
+}
+
+.faq-container {
+  max-width: 600px;
+  margin: 0 auto;
+  
+}
+
+img {
+  max-width: 600px;
+}
+
+.faq {
+  background-color: transparent;
+  border: 1px solid #9fa4a8;
+  border-radius: 10px;
+  margin: 20px 0;
+  padding: 30px;
+
+  position: relative;
+  overflow: hidden;
+  transition: 0.3s ease;
+
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  /* height: 100vh; */
-  /* overflow: hidden; */
-  margin: 0;
+}
+
+.faq.active {
+  background-color: #fff;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1),
+  0 3px 6px rgba(0,0,0,0.1);
+}
+
+.faq.active::before,
+.faq.active::after {
+  content: '\f075';
+  font-family: 'Font Awesome 5 Free';
+
+  color: #2ecc71;
+  font-size: 7rem;
+  /* Basically 7 times whatever the root HTML element font
+  size, which initially is 16px*/
+
+  position: absolute;
+  opacity: 0.2;
+  top: 20px;
+  left: 20px;
+
+  /*Remember, this is for both elements -before and after.
+   We position them both in the same place, to after grab one of them
+   and move it a little bit.*/
+
+   z-index: 0;
+}
+
+.faq.active::before {
+  color: #3498db;
+  top: -10px; /* it will move up 10px (-)*/
+  left: -30px;
+
+  transform: rotateY(180deg);
+}
+
+.faq-title {
+  margin: 0 35px 0 0;
+}
+
+.faq-text {
+  display: none;
+  margin: 30px 0 0;
+}
+
+/* When the faq has the active class, we want the faq-text to:*/
+.faq.active .faq-text {
+  display: block;
 }
