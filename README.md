@@ -246,6 +246,24 @@ We just need to toggle the active class basically on the parent node.
 
 ![preview]()
 
+This is a cool little project for picking random choices.🎲
+
+Now we have this textarea and, as soon as I start to type, it'll format down the 'textarea' as like a tag.
+
+And to create another choice, I just need to put a comma and start to type again.
+
+Obviously we can do as many as we want, separate them by commas.
+
+And then, as soon as I hit 'Enter', it's going to give us this cool little effect and it's going to stop on a random choice.
+
+It's also going to clear the text area.
+
+And it's just going to stop on a random one.
+
+So if you just need some little helper to help you make a choice between however many items - objects, numbers, names, symbols etc..., you can use this cool little application.
+
+So that's what we'll be creating.👩‍💻
+
 ## 1️⃣4️⃣ Animated Navigation
 
 ![preview]()
