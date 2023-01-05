@@ -20,6 +20,7 @@ body {
 h3{
   color: #fff;
   margin: 10px 0 20px;
+  text-align: center;
 }
 
 .container {
@@ -51,6 +52,6 @@ h3{
 
 /* For when the class tag will be picked randomically and one
 of them will be active. */
-.tag.highlight {
+.highlight {
   background-color: #273c75;
 }
