@@ -244,7 +244,7 @@ We just need to toggle the active class basically on the parent node.
 
 ## 1️⃣3️⃣ Random Choice Picker
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day13_random_choice_picker/video/Random-Choice-Picker-Google-Chrome-2023-01-05-18-14-37.gif)
 
 This is a cool little project for picking random choices.🎲
 
