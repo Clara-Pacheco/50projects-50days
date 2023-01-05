@@ -224,7 +224,7 @@ This is going to be really simple, but it can be useful if you need to get the c
 
 ## 1️⃣2️⃣ Faq Collapse
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day12_faq_collapse/video/FAQ-Google-Chrome-2023-01-05-10-29-40.gif)
 
 This project is inspired by a project at dribble from James
 called FAQ where you have cards with questions and you can expand 
