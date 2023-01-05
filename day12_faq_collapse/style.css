@@ -1,3 +1,5 @@
+ @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&display=swap');
+
 * {
   box-sizing: border-box;
 
@@ -5,12 +7,12 @@
 
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Mulish', sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  overflow: hidden;
+  /* height: 100vh; */
+  /* overflow: hidden; */
   margin: 0;
 }
