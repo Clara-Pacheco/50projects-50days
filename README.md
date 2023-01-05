@@ -226,6 +226,22 @@ This is going to be really simple, but it can be useful if you need to get the c
 
 ![preview]()
 
+This project is inspired by a project at dribble from James
+called FAQ where you have cards with questions and you can expand 
+to get the answers.
+
+I made a programmer's joke FAQ based off it. 
+
+It was used quite a bit of CSS because we're going to use Font Awesome,
+as we're not going to just put the comment icons right in the HTML.
+We're going to use CSS using the specific Unicode for these fonts or for these icons.
+
+And then we're going to position them and then add the JavaScript so that we can close and open each of these tabs to see the answer.😜
+
+The CSS will probably take up most of the time, the JavaScript is pretty easy.
+
+We just need to toggle the active class basically on the parent node.
+
 ## 1️⃣3️⃣ Random Choice Picker
 
 ![preview]()
