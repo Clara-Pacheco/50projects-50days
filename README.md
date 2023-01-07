@@ -266,7 +266,7 @@ So that's what we'll be creating.👩‍💻
 
 ## 1️⃣4️⃣ Animated Navigation
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day14_animated_navigation/video/Animated-Navigation-Google-Chrome-2023-01-07-07-16-02.gif)
 
 
 This is a pretty simple project, at least in terms of the JavaScript.
