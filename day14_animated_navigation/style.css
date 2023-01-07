@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700;800&display=swap');
 * {
   box-sizing: border-box;
 
@@ -5,12 +6,68 @@
 
 
 body {
-  font-family: 'Roboto', sans-serif;
+  background-color: #eafbff;
+  background-image: linear-gradient(to bottom,#eafbff 0%,#eafbff 50%,
+  #5290f9 50%, #5290f9 100%);
+  font-family: 'Mulish', sans-serif;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  overflow: hidden;
   margin: 0;
+}
+
+nav {
+  background-color: #fff;
+  padding: 20px;
+  width: 80px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 3px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+
+  transition: width .5s linear; /*Same speed throughout*/
+}
+
+nav.active {
+  width: 350px;
+}
+
+nav ul{
+  display: flex;
+
+
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  width: 0;
+  transition: width .6s linear;
+}
+
+nav.active ul{
+  width: 100%;
+}
+
+nav ul li {
+  transform: rotateY(0deg);
+  opacity: 0;
+  transition: transform .6s linear, opacity .6s linear;
+}
+
+nav.active ul li {
+  transform: rotateY(360deg);
+  opacity: 1;
+}
+
+nav ul a {
+  position: relative;
+  color: #000;
+  text-decoration: none;
+
+  margin: 0 10px;
+
 }
