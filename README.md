@@ -268,6 +268,21 @@ So that's what we'll be creating.👩‍💻
 
 ![preview]()
 
+
+This is a pretty simple project, at least in terms of the JavaScript.
+
+Basically, we just need to add an event listener to the button icon, and, once we click on it,  we're going to toggle an active class.
+
+When the button is clicked, you can see a couple of things happening: the container - the nav - shrinks, the links start to rotate until ultimately they disappear, setting the opacity to zero.
+
+Also, the X does a rotation and turns into two lines.
+
+So it's a pretty cool effect and you could use this on any website or application.
+
+We're going to be doing mostly CSS here.
+
+As you can see, we have quite a few transitions that are going to come into play when we toggle the active class.
+
 ## 1️⃣5️⃣ Incrementing Counter
 
 ![preview]()
