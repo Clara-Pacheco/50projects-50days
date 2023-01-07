@@ -303,7 +303,7 @@ So we're going to first just create, style it, and make it responsive, so when i
 
 ## 1️⃣6️⃣ Drink Water
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day16_drink_water/video/Drink-Water-Google-Chrome-2023-01-07-10-22-04.gif)
 
 So this is kind of a cool little project.
 
