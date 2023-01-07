@@ -285,7 +285,7 @@ As you can see, we have quite a few transitions that are going to come into play
 
 ## 1️⃣5️⃣ Incrementing Counter
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day15_incrementing_counter/video/Increment-Counter-Google-Chrome-2023-01-07-08-20-14.gif)
 
 So in this project, we're going to create an increment counter.
 
