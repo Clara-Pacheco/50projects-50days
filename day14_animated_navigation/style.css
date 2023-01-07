@@ -71,3 +71,47 @@ nav ul a {
   margin: 0 10px;
 
 }
+
+.icon {
+  background-color: #fff;
+  border: 0;
+
+  cursor: pointer;
+
+  padding: 0;
+
+  position: relative;
+  width: 30px;
+  height: 30px;
+  /* border: 1px solid red; */
+}
+
+.icon:focus {
+  outline: 0;
+}
+
+.icon .line {
+  background-color: #5290f9;
+  height: 2px;
+  width: 20px;
+
+  position: absolute;
+  top: 10px;
+  left: 5px;
+
+  transition: transform .5s linear;
+}
+
+.icon .line2 {
+  position: absolute;
+  top: auto;
+  bottom: 10px;
+}
+
+nav.active .icon .line1 {
+  transform: rotate(-765deg) translateY(5.5px);
+}
+
+nav.active .icon .line2 {
+  transform: rotate(765deg) translateY(-5.5px);
+}
