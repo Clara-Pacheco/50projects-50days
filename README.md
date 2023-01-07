@@ -305,6 +305,28 @@ So we're going to first just create, style it, and make it responsive, so when i
 
 ![preview]()
 
+So this is kind of a cool little project.
+
+Basically, we're going to just track cups of water.
+
+We have a goal of two liters, and we have this big cup here and 8 small cups.
+
+So we're going to style this and then add some JavaScript functionality.
+
+If I click on this first one here, you can see that we have 12.5% of our two liters, meaning 1.75 liters remaining.
+
+And if I click on like the fourth one here, it's going to not only highlight this one or fill this cup, but all the way up to that cup.
+
+And now you can see I have 50% and one liter remaining.
+
+If I click on all the small cups, it means I drank all of them and
+the big cup is 100% filled up.
+
+So I think it's a cool little project to kind of manipulate the DOM and do a little bit of calculation in JavaScript.
+
+Besides, it will help you to keep healthy by drinking the amount of
+water needed in a day. 🥤🤸‍♀️
+
 ## 1️⃣7️⃣  Movie App
 
 ![preview]()
