@@ -287,6 +287,20 @@ As you can see, we have quite a few transitions that are going to come into play
 
 ![preview]()
 
+So in this project, we're going to create an increment counter.
+
+And I'm sure you've seen this on websites somewhere.
+
+Basically, we have these numbers.
+
+I'm just using Twitter, YouTube, Facebook fans, but this could be any number.
+
+And when we come to the site initially, you can see that it accounts from zero up and we can set the whatever the increment is, we can set that to whatever we'd like to make it faster or slower.
+
+So we're going to first just create, style it, and make it responsive, so when it's on a small screen, it goes vertical.
+
+ After we'll add the JavaScript to make it increment like this.
+
 ## 1️⃣6️⃣ Drink Water
 
 ![preview]()
