@@ -331,6 +331,24 @@ water needed in a day. 🥤🤸‍♀️
 
 ![preview]()
 
+Inn this project, we're going to be building a movie app using a third party API from the https://www.themoviedb.org/, which gives you a giant database of movies with the title, ratings, images and just a whole bunch of data that we can work with.
+
+So I´m going to, first of all, create the UI, add the HTML and CSS and then, 
+register an API key with the the TMDB service.
+
+After that, I´m going to add the JavaScript to make a fetch request to get the data to show the most popular movies at the time, which is what you will see
+when you load the page.
+
+We're going to have this hover effect where it shows you an overview of each movie, as well as the title of the movie and its rating.
+
+We'll have special colors depending on what the rating is. If it's like above eight, it'll be green, if it's between five and eight, it'll be orange and finally, if it's below five, it'll be red.
+
+And we're also going to add the search functionality.
+
+So if I search for the word love and I hit enter, it's going to get me all the movies with the title containing the word love, or at least the first 20 or 30.
+
+So it's not a giant application, but it gives you a good idea on using the Fetch API, working with a third party data service or data API and also putting that stuff into the DOM, adding the data to the DOM to the page.
+
 ## 1️⃣8️⃣ Background Slider
 
 ![preview]()
