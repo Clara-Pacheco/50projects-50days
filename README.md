@@ -329,7 +329,7 @@ water needed in a day. 🥤🤸‍♀️
 
 ## 1️⃣7️⃣  Movie App
 
-![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day17_movie_app/img/project_img_preview.png)
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day17_movie_app/video/Movie-App-Google-Chrome-2023-01-09-11-02-47.gif)
 
 Inn this project, we're going to be building a movie app using a third party API from the https://www.themoviedb.org/, which gives you a giant database of movies with the title, ratings, images and just a whole bunch of data that we can work with.
 
