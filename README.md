@@ -353,6 +353,24 @@ So it's not a giant application, but it gives you a good idea on using the Fetch
 
 ![preview]()
 
+In this project, I´m going to build an image slider, but we're also going to have the background image change as well.
+
+And you can see the background image is basically in line with the foreground image.
+
+So we're going to have some event listeners on these arrows and these buttons.
+
+When I click on them, it's going to change foreground image, but also change the background image and position it into the right place.
+
+You can see that these back and front images are basically connected, this foreground image in the background.
+
+One is on the slide element and the other is on the body element.
+
+And we're going to add some JavaScript to add these event listeners and have everything line up nicely.
+
+This can be useful in an image gallery, for example, but the most important thing is to understand the whole logic of this, bringing in the all the slides with 'querySelectorAll', having the background change to whatever the background image is for that specific slide and then looping through all the slides, removing the active class, and then adding the active class onto the next one, which
+is going to be either, increment or decrement depending on which arrow we click.
+
+
 ## 1️⃣9️⃣ Theme Clock
 
 ![preview]()
