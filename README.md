@@ -351,7 +351,7 @@ So it's not a giant application, but it gives you a good idea on using the Fetch
 
 ## 1️⃣8️⃣ Background Slider
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day18_background_slider/video/Background-Slider-Google-Chrome-2023-01-09-12-02-38.gif)
 
 In this project, I´m going to build an image slider, but we're also going to have the background image change as well.
 
