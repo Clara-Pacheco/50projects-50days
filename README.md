@@ -373,7 +373,7 @@ is going to be either, increment or decrement depending on which arrow we click.
 
 ## 1️⃣9️⃣ Theme Clock
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day19_theme_clock/video/Theme-Clock-Google-Chrome-2023-01-10-08-33-37.gif)
 
 So this is one of the cooler-looking projects in this series.
 
