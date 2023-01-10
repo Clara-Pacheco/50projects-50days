@@ -389,6 +389,22 @@ Finally, we're going to show a digital readout of the time, the day, and the dat
 
 ![preview]()
 
+This is a button with a ripple effect.
+
+The idea is we want to have a button and then when we click on it, we're going to basically have JavaScript create a specific <span> that will have a class of 'circle', and we're going to style that to be like a round white circle with an animation.
+
+This animation will scale up and will set its position - the top and left position, we want to set to where we click.
+
+So we don't want to just always ripple in the center.
+
+We want it to ripple wherever we click.
+
+We need to do that with a combination of CSS and JavaScript.
+
+It's a very simple thing to just have a ripple, but if you're pretty new to JavaScript, this should help you out, finding out where you're clicking, finding out the position of a specific element, adding an element, manipulating the style.
+
+So there's quite a bit in just this tiny little project if you're just learning JavaScript or you don't know much about the DOM in general.
+
 ## Drag N Drop
 
 ![preview]()
