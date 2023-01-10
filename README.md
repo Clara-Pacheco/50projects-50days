@@ -387,7 +387,7 @@ Finally, we're going to show a digital readout of the time, the day, and the dat
 
 ## 2️⃣0️⃣ Button Ripple Effect
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day20_button_ripple_effect/video/Button-Ripple-Effect-Google-Chrome-2023-01-10-09-25-01.gif)
 
 This is a button with a ripple effect.
 
