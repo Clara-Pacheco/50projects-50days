@@ -375,6 +375,16 @@ is going to be either, increment or decrement depending on which arrow we click.
 
 ![preview]()
 
+So this is one of the cooler-looking projects in this series.
+
+I'm going to build this theme clock where we use CSS to style these needles, which are obviously the hour, the minute, and the second.
+
+And then we're going to use JavaScript to power it and have it show the current time.
+
+We're going to update it every second so that it ticks like an actual clock.
+
+Finally, we're going to show a digital readout of the time, the day, and the date, and we're also going to be able to toggle it to dark mode and then back to light mode.
+
 ## 2️⃣0️⃣ Button Ripple Effect
 
 ![preview]()
