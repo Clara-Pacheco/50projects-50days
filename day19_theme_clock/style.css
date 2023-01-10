@@ -78,6 +78,7 @@ body {
   width: 3px;
 
   transform-origin: bottom center;
+  transition: all .5s ease-in;
 
 }
 
