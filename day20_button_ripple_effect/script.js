@@ -2,8 +2,8 @@ const buttons = document.querySelectorAll('.ripple')
 
 buttons.forEach(button => {
   button.addEventListener('click',(e)=>{
-    const x = e.clientX // position clicked in the 'x' axis inside of the button in relation to the body - it varies
-    const y = e.clientY // position clicked in the 'y' axis inside of the button in relation to the body - it varies
+    const x = e.clientX // position clicked in the 'x' axis until inside of the button in relation to the body - it varies
+    const y = e.clientY // position clicked in the 'y' axis until inside of the button in relation to the body - it varies
 
     console.log(x,y)
 
