@@ -142,15 +142,16 @@ body {
   color: var(--secondary-color);
   border-radius: 50%;
 
-  height: 18px;
-  width: 18px;
+  height: 23px;
+  width: 23px;
 
   display: inline-flex;
   align-items: center;
   justify-content: center;
 
   line-height: 18px;
+  padding: 5px;
 
   transition: 0.5s ease-in;
-  font-size: 12px;
+  font-size: 5px;
 }
