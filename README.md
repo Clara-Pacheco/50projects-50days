@@ -409,6 +409,25 @@ So there's quite a bit in just this tiny little project if you're just learning 
 
 ![preview]()
 
+In this project, I want to get into a little bit of drag-and-drop functionality.
+
+We're going to just create and style these boxes.
+
+One div inside one of these boxes will contain a background image coming from Unsplash, just a random image.
+
+And you'll see that, if I grab it, a couple of things happen:
+
+ - the image I'm holding has a class of 'hold', which gives it a gray border;
+It's very faint, but it has a border.
+
+- And then, each one of these boxes I hover over gets a class of hovered, that contains a dark background and a white dash border.
+
+And then if I drop, it'll actually go in whichever of these hovering over.
+
+So it's a very simple project, but it gives you a basic understanding of how drag and drop works.
+
+And you can then go on to build some really cool interfaces or even games and stuff like that.👩‍💻🎮
+
 ## Drawing App
 
 ![preview]()
