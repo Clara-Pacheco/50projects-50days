@@ -430,7 +430,7 @@ And you can then go on to build some really cool interfaces or even games and st
 
 ## Drawing App
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day22_drawing_app/video/Drawing-App-Google-Chrome-2023-01-11-10-57-19.gif)
 
 So this is actually one of my favorite projects in this series.
 
