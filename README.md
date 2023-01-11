@@ -407,7 +407,7 @@ So there's quite a bit in just this tiny little project if you're just learning 
 
 ## Drag N Drop
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day21_drag_and_drop/video/Drag-N-Drop-Google-Chrome-2023-01-11-08-34-42.gif)
 
 In this project, I want to get into a little bit of drag-and-drop functionality.
 
