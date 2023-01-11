@@ -30,12 +30,13 @@ body {
 
 .hold {
   border: solid 5px #ccc;
-  border-color: #fff;
-  border-style: dashed;
+
 }
 
 .hovered {
   background-color: #333;
+  border-color: #fff;
+  border-style: dashed;
 }
 
 @media screen and (max-width: 800px) {
