@@ -432,6 +432,28 @@ And you can then go on to build some really cool interfaces or even games and st
 
 ![preview]()
 
+So this is actually one of my favorite projects in this series.
+
+It's a little drawing app that we're going to create using HTML5 canvas.
+
+So we're going to use the canvas element.
+
+That's what this big square is.
+
+And there's a JavaScript API that we can use to draw shapes, we can draw circles, rectangles, images, and lines, and we're going to implement that with most events so that we can actually click and draw.
+
+And then we're going to add these controls down here where we can change the color and the width of the pencil, as well as clear the canvas area to make a new
+drawing.
+
+So if I go down to five, you see it's a little smaller; the highest we can go is 50, so that's the thickest pencil's width; the lowest is 5, meaning the thinnest
+pencil's width.
+
+So I think it's a cool little canvas app and I think you'll enjoy it.
+
+We will start on the interface, then build the functions to create shapes, circles, and lines with canvas, then we'll move into the mouse events and drawing, and then, these toolbox controls down here.
+
+It's no Adobe program or anything like that, but it's a cool little app that didn't take much code at all.
+
 ## Kinetic Loader
 
 ![preview]()
