@@ -1,9 +1,15 @@
 const canvas = document.getElementById("canvas");
+const increaseBtn = document.getElementById("increase");
+const decreaseBtn = document.getElementById("decrease");
+const sizeEl = document.getElementById("size");
+const colorEl = document.getElementById("color");
+const clearBtn = document.getElementById("clear");
+
 const ctx = canvas.getContext("2d");
 
-let size = 20
+let size = 10
 let isPressed = false
-let color = 'black'
+let color
 let x
 let y
 
@@ -79,3 +85,45 @@ function drawLine(x1,y1,x2,y2){
   ctx.stroke() // draw the line based in the properties above
 }
 
+function updateSizeOnScreen(){
+  sizeEl.innerText = size
+}
+
+colorEl.addEventListener('change', (e) => {
+  color = e.target.value
+})
+
+/*
+So we'll take the color element, which is the input, the color input, and
+we'll add an event listener on to it.
+We want to listen for a change.
+So when we change the color, it's going to fire that event off and we're
+going to pass in our arrow function here.
+And all I'm going to do is take the color variable(global) set that equal
+to the value.
+So target dot value will give me the color that I pick with the color picker.
+ */
+
+increaseBtn.addEventListener('click',()=>{
+  size += 5
+
+  if(size > 50) {
+    size= 50
+  }
+
+  updateSizeOnScreen()
+})
+
+decreaseBtn.addEventListener('click',()=>{
+  size -= 5
+
+  if(size < 5) {
+    size= 5
+  }
+
+  updateSizeOnScreen()
+})
+
+clearBtn.addEventListener('click',()=>{
+  ctx.clearRect(0,0,canvas.width, canvas.height)
+})
