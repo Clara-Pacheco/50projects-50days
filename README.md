@@ -405,7 +405,7 @@ It's a very simple thing to just have a ripple, but if you're pretty new to Java
 
 So there's quite a bit in just this tiny little project if you're just learning JavaScript or you don't know much about the DOM in general.
 
-## Drag N Drop
+## 2️⃣1️⃣ Drag N Drop
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day21_drag_and_drop/video/Drag-N-Drop-Google-Chrome-2023-01-11-08-34-42.gif)
 
@@ -428,7 +428,7 @@ So it's a very simple project, but it gives you a basic understanding of how dra
 
 And you can then go on to build some really cool interfaces or even games and stuff like that.👩‍💻🎮
 
-## Drawing App
+## 2️⃣2️⃣ Drawing App
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day22_drawing_app/video/Drawing-App-Google-Chrome-2023-01-11-10-57-19.gif)
 
@@ -454,7 +454,7 @@ We will start on the interface, then build the functions to create shapes, circl
 
 It's no Adobe program or anything like that, but it's a cool little app that didn't take much code at all.
 
-## Kinetic Loader
+## 2️⃣3️⃣ Kinetic Loader
 
 ![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day23_kinetic_css_loader/video/Kinetic-Loader-Google-Chrome-2023-01-12-08-45-49.gif)
 
@@ -466,31 +466,43 @@ Then, we'll add this animation so that they rotate and one follows another.
 
 So we're going to look at creating keyframes and also how to create these triangles using borders.
 
-## Content Placeholder
+## 2️⃣4️⃣ Content Placeholder
 
 ![preview]()
 
-## Sticky Navbar
+In this project, I'm to build a content placeholder.
+
+And you can see this just looks like an ordinary card, has an image, some text, a user image or an author image, and some data.
+
+So if I reload, or we come to this page, you're going to see this cool gradient animation that loads in about two and a half seconds, and then the content comes in.
+
+So the way that we're going to approach this is we're first going to build out just the card with HTML, and CSS, then we're going to create this animation with CSS, basically just modifying the background position of a linear gradient.
+
+And then we're going to have JavaScript insert the content, and it will just be hard-coded in the JavaScript.
+
+But of course, you could fetch the data from some kind of API and you could have multiple cards as well.
+
+## 2️⃣5️⃣ Sticky Navbar
 
 ![preview]()
 
-## Double Vertical Slider
+## 2️⃣6️⃣ Double Vertical Slider
 
 ![preview]()
 
-## Toast Notification
+## 2️⃣7️⃣ Toast Notification
 
 ![preview]()
 
-## Github Profiles
+## 2️⃣8️⃣ Github Profiles
 
 ![preview]()
 
-## Double Click Heart
+## 2️⃣9️⃣ Double Click Heart
 
 ![preview]()
 
-## Auto Text Effect
+## 3️⃣0️⃣ Auto Text Effect
 
 ![preview]()
 
