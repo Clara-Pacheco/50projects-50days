@@ -468,7 +468,7 @@ So we're going to look at creating keyframes and also how to create these triang
 
 ## 2️⃣4️⃣ Content Placeholder
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day24_content_placeholder/video/Content-Placeholder-Google-Chrome-2023-01-12-11-19-24.gif)
 
 In this project, I'm going to build a content placeholder.
 
