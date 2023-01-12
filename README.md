@@ -456,7 +456,7 @@ It's no Adobe program or anything like that, but it's a cool little app that did
 
 ## Kinetic Loader
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day23_kinetic_css_loader/video/Kinetic-Loader-Google-Chrome-2023-01-12-08-45-49.gif)
 
 This is a very small project, but it can give a special touch inside a bigger one.
 
