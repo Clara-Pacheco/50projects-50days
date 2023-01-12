@@ -470,7 +470,7 @@ So we're going to look at creating keyframes and also how to create these triang
 
 ![preview]()
 
-In this project, I'm to build a content placeholder.
+In this project, I'm going to build a content placeholder.
 
 And you can see this just looks like an ordinary card, has an image, some text, a user image or an author image, and some data.
 
