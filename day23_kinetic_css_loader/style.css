@@ -43,7 +43,7 @@ They're just transparent.*/
 
 .kinetic::before {
   transform: rotate(90deg);
-  animation: rotateB 2s linear infinite 0.5s;
+  animation: rotateB 2s linear infinite;
 }
 
 @keyframes rotateA {

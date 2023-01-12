@@ -458,6 +458,14 @@ It's no Adobe program or anything like that, but it's a cool little app that did
 
 ![preview]()
 
+This is a very small project, but it can give a special touch inside a bigger one.
+
+We're going to create this 'Kinect loader', where we have these two triangles created with pure CSS.
+
+Then, we'll add this animation so that they rotate and one follows another.
+
+So we're going to look at creating keyframes and also how to create these triangles using borders.
+
 ## Content Placeholder
 
 ![preview]()
