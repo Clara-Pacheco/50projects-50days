@@ -506,47 +506,47 @@ But of course, you could fetch the data from some kind of API and you could have
 
 ![preview]()
 
-## Password Generator
+## 3️⃣1️⃣ Password Generator
 
 ![preview]()
 
-## Good Cheap Fast
+## 3️⃣2️⃣ Good Cheap Fast
 
 ![preview]()
 
-## Notes App
+## 3️⃣3️⃣ Notes App
 
 ![preview]()
 
-## Animated Countdown
+## 3️⃣4️⃣ Animated Countdown
 
 ![preview]()
 
-## Image Carousel
+## 3️⃣5️⃣ Image Carousel
 
 ![preview]()
 
-## Hoverboard
+## 3️⃣6️⃣ Hoverboard
 
 ![preview]()
 
-## Pokedex
+## 3️⃣7️⃣Pokedex
 
 ![preview]()
 
-## Mobile Tab Navigation
+## 3️⃣8️⃣ Mobile Tab Navigation
 
 ![preview]()
 
-## Password Strength Background
+## 3️⃣9️⃣ Password Strength Background
 
 ![preview]()
 
-## 3d Background Boxes
+## 4️⃣0️⃣ 3d Background Boxes
 
 ![preview]()
 
-## Verify Account UI
+##  Verify Account UI
 
 ![preview]()
 
