@@ -486,6 +486,21 @@ But of course, you could fetch the data from some kind of API and you could have
 
 ![preview]()
 
+In this project, we're going to create something that's pretty simple, but also very useful that you see quite a bit, and that's a 'sticky nav'.
+
+So we have this nav bar at the top of our little website here.
+
+We're going to create this hero image with an overlay and style a little bit of this website.
+
+The main point is the nav bar that sticks to the top, and when I scroll down and hit a certain point, you can see that it does a few things:
+It changes its color, changes the text color, lessens the padding, and makes it smaller.
+
+If I go back up to the top, it turns back black and adds that padding.
+
+So we get that nice little effect that can be seen on a lot of websites, and there's no need for jQuery or any extra library.
+
+It's very, very simple.
+
 ## 2️⃣6️⃣ Double Vertical Slider
 
 ![preview]()
