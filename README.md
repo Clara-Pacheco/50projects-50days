@@ -484,7 +484,7 @@ But of course, you could fetch the data from some kind of API and you could have
 
 ## 2️⃣5️⃣ Sticky Navbar
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day25_sticky_navbar/video/Sticky-Navigation-Google-Chrome-2023-01-15-09-40-09.gif)
 
 In this project, we're going to create something that's pretty simple, but also very useful that you see quite a bit, and that's a 'sticky nav'.
 
