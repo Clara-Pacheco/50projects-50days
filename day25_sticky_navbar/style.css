@@ -20,8 +20,72 @@ body {
   margin: 0 auto;
 }
 
-/*@todo Nav*/
+/*@todo Nav ------------------------------------------------------*/
 
+.nav {
+  position: fixed;
+  background-color: #222;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  transition: all .3s ease-in-out;
+}
+
+/* 0 to left and right, it will make the nav goes all the way
+across */
+
+.nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+
+  transition: all .3s ease-in-out;
+
+} 
+
+.nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  align-items: center;
+}
+
+.nav a,
+.nav ul {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 15px;
+  transition: all .3s ease-in-out;
+
+}
+
+.nav.active {
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,.3);
+
+}
+
+.nav.active a,
+.nav.active ul {
+  color: #000;
+}
+
+.nav.active .container {
+  padding: 10px 0;
+}
+
+.nav ul li.current,
+.nav ul li:hover {
+  color: #c0392b;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/*------------------------------------------------------*/
+
+/* Site */
 .hero {
   background-image: url('https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
   background-repeat: no-repeat;
