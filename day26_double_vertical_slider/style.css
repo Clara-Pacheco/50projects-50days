@@ -30,6 +30,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
+
+  transition: transform .5s ease-in-out;
  
 }
 
@@ -56,6 +58,8 @@ body {
   position: absolute;
   top: 0;
   left: 35%;
+
+  transition: transform .5s ease-in-out;
 }
 
 .right-slide > div {
