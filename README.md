@@ -505,6 +505,21 @@ It's very, very simple.
 
 ![preview]()
 
+In this one, we're going to build a vertical slider.
+
+Basically, we have an image on the right side, and we have some text on the left side; this could be any kind of content you want.
+
+And there are these two arrows: if I click the up, what's going to happen is one side goes up, one side goes down, but it brings into place the correct text area and the correct image.
+If I click down, the same thing will happen, but it just goes the opposite way.
+
+So I think it's a really cool looking slider.
+
+It's not really responsive if we make this smaller. It doesn't really look good on smaller screens, just because of the orientation of it.
+
+But that's not really the point here.
+
+This is made for a desktop, laptop, etc. If you wanted to, you could go on and try to maybe switch the orientation on smaller screens.
+
 ## 2️⃣7️⃣ Toast Notification
 
 ![preview]()
