@@ -503,7 +503,7 @@ It's very, very simple.
 
 ## 2️⃣6️⃣ Double Vertical Slider
 
-![preview]()
+![preview](https://github.com/Clara-Pacheco/50projects-50days/blob/main/day26_double_vertical_slider/video/Vertical-Slider-Google-Chrome-2023-01-16-08-45-48.gif)
 
 In this one, we're going to build a vertical slider.
 
